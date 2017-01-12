@@ -1,0 +1,11 @@
+C:\Projects\Windows Forms\LifeForms\LifeForms\bin\Release\LifeForms.exe.config
+C:\Projects\Windows Forms\LifeForms\LifeForms\bin\Release\LifeForms.exe
+C:\Projects\Windows Forms\LifeForms\LifeForms\bin\Release\LifeForms.pdb
+C:\Projects\Windows Forms\LifeForms\LifeForms\obj\Release\LifeForms.frmAddLife.resources
+C:\Projects\Windows Forms\LifeForms\LifeForms\obj\Release\LifeForms.frmMain.resources
+C:\Projects\Windows Forms\LifeForms\LifeForms\obj\Release\LifeForms.frmSearch.resources
+C:\Projects\Windows Forms\LifeForms\LifeForms\obj\Release\LifeForms.Properties.Resources.resources
+C:\Projects\Windows Forms\LifeForms\LifeForms\obj\Release\LifeForms.csproj.GenerateResource.Cache
+C:\Projects\Windows Forms\LifeForms\LifeForms\obj\Release\LifeForms.exe
+C:\Projects\Windows Forms\LifeForms\LifeForms\obj\Release\LifeForms.pdb
+C:\Projects\Windows Forms\LifeForms\LifeForms\bin\Release\Data.xml
